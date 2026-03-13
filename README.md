@@ -56,7 +56,7 @@ LIMIT 10;
 
 - **Variacion de titulos y responsabilidades:** Tambien podemos encontrar gran variedad en los titulos de los trabajos, reflejando roles expansivos y oportunidades de especializacion dentro del ambito.
 
-![Salarios Mejor Remunerados](assets/Salarios_mejor_remunerados.png)
+![Salarios Mejor Remunerados](assets\SalariosMejorRemunerados.jpg)
 *Grafico de barras visualizando el salario para el top 10 salarios de Analista de Datos; grafico generado a traves de DeepSeek usando los resultados de la consulta SQL*
 ### 2. Herramientas y habilidades especializadas.
 Para generar un mayor entendimiento de lo que uno debe manejar para llegar a estas posiciones, usando una SubQuery de la consulta anterior, unimos las tablas de datos de trabajos y la de habilidades para analizar que herramientas son mas valoradas en dichas posiciones.
@@ -95,7 +95,7 @@ ORDER BY
 - **Python** es un cercano segundo apareciendo en 7.
 - **Tableau** tambien surge en gran demanda como herramienta para visualizacion de los datos. Otras habilidades como R, Snowflake, Pandas y Excel muestran distintos grados de demanda.
 
-![Herramientas en demanda](assets/top_habilidades_demandadas.png)
+![Herramientas en demanda](assets\topHabilidadesDemandadas.jpg)
 *Grafico de barras visualizando la demanda de las habilidades en el top 10; grafico generado a traves de DeepSeek usando la segunda consulta SQL*
 ### 3. Habilidades con mayor demanda.
 Esta consulta ayuda a identificar las habilidades con mayor demanda teniendo en cuenta la totalidad de los datos.
